@@ -28,6 +28,3 @@ class Menu {
         return scanner.nextLine()
     }
 }
-
-
-
